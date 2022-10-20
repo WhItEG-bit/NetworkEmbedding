@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T09:29:51.096Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="0KFKSyO0Fsk1zEKI6Hbn" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T09:31:50.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ZOMJ6pUlPrv6y9-1AyiU" version="20.4.1" type="github">
   <diagram id="KU-olh9_EunU25e2tUOI" name="第 1 页">
     <mxGraphModel dx="2308" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -506,6 +506,12 @@
         </mxCell>
         <mxCell id="YmlekW7UCMXkX2L6uJOz-196" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, ff-yoga-web-pro, &amp;quot;Georgia,serif&amp;quot;, STXihei, 华文细黑, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;IBM Plex Mono&amp;quot;, &amp;quot;Space Grotesk&amp;quot;, &amp;quot;Roboto Slab&amp;quot;, &amp;quot;sans-serif&amp;quot;, Helvetica, Arial, &amp;quot;sans-serif&amp;quot;, &amp;quot;serif&amp;quot;; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;Reconstruct Network by Using Cosine Similarity&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="590" y="400" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YmlekW7UCMXkX2L6uJOz-197" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Type1&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YmlekW7UCMXkX2L6uJOz-198" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Type2&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="350" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
